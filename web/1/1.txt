@@ -1,0 +1,11 @@
+Android Lab 05:
+Stocarea persistenta a datelor in Android;
+
+SharedPreference
+PreferenceActivity pentru ediatare apreferintelor;
+Internal Storage - salvare sub forma de fisiere;
+External Storage - memoria externa;
+SQLLite db;
+
+Pentru tema: Salvare totalului intr-un mod de stocare persistent, folosind una dintre cele 
+3 metode prezentate mai sus;
