@@ -18,6 +18,6 @@
 </head>
 <body>
 	<h1>Logare</h1>
-	<h3><?php echo "Hi " . $username . " your password is " . $password; ?></h3>
+	<h3><?php echo "Hi " . $username . " your password was " . $password; ?></h3>
 </body>
 </html>
